@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://naitikkharat.github.io/portfolio_Naitik/)
 [![Email](https://img.shields.io/badge/Email-naitikkharat07@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:naitikkharat@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/naitik-kharat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/naitik-kharat](https://www.linkedin.com/in/naitikkharat/))
 
 ---
 
