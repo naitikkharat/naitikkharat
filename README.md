@@ -3,8 +3,8 @@
 🎓 Final Year AI & ML Student | 💡 IoT Specialist | 🧠 Tech Explorer | 🛠️ Builder of Smart Solutions
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://naitikkharat.github.io/portfolio_Naitik/)
-[![Email](https://img.shields.io/badge/Email-naitikkharat07@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:naitikkharat@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/naitik-kharat](https://www.linkedin.com/in/naitikkharat/))
+[![Email](https://img.shields.io/badge/Email-naitikkharat@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:naitikkharat@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naitikkharat/)
 
 ---
 
@@ -85,8 +85,8 @@ Uses sentiment analysis and personalized well-being insights.
 ## 🌐 Portfolio & Contact
 
 - 🧠 Portfolio: [naitikkharat.github.io/portfolio_Naitik](https://naitikkharat.github.io/portfolio_Naitik/)
-- 📧 Email: [naitikkharat07@gmail.com](mailto:naitikkharat@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/naitik-kharat](https://linkedin.com/in/naitik-kharat)
+- 📧 Email: [naitikkharat@gmail.com](mailto:naitikkharat@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/naitikkharat](https://www.linkedin.com/in/naitikkharat/)
 
 ---
 
