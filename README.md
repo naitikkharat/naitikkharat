@@ -29,8 +29,8 @@ Arduino + ultrasonic sensor car that avoids obstacles autonomously.
 Part of a larger autonomous systems project.
 
 ### 🎓 [EduRA](https://github.com/NaitikKharat/EduRA)  
-Edura is an AI-powered platform that enhances online learning by delivering personalized, intelligently curated educational content.
-It uses LLMs and RAG to generate context-aware responses and tailor learning materials to each student’s needs.
+AI-powered educational platform delivering personalized, curated content.
+Uses LLMs and RAG for context-aware learning experiences.
 
 ---
 
