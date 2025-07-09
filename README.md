@@ -28,9 +28,9 @@ Analyzes user risk and spending habits using ML.
 Arduino + ultrasonic sensor car that avoids obstacles autonomously.  
 Part of a larger autonomous systems project.
 
-### 🎓 [EduRA - Student Mental Health Analyzer](https://github.com/NaitikKharat/EduRA)  
-AI-powered app that analyzes academic pressure and suggests support.  
-Uses sentiment analysis and personalized well-being insights.
+### 🎓 [EduRA](https://github.com/NaitikKharat/EduRA)  
+Edura is an AI-powered platform that enhances online learning by delivering personalized, intelligently curated educational content.
+It uses LLMs and RAG to generate context-aware responses and tailor learning materials to each student’s needs.
 
 ---
 
